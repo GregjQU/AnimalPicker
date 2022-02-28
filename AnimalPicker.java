@@ -24,6 +24,10 @@ else if(userInput1.equalsIgnoreCase("cat")) {
 	System.out.println(" kitty");
 	
 }
+else {
+	
+	System.out.println("Sorry please enter one of the  options");
+}
 
 
 
