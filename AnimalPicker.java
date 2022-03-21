@@ -20,6 +20,8 @@ else if(userInput1.equalsIgnoreCase("cat")) {
 	
 	System.out.println("            _       \n   ___ __ _| |_ ___ \n  / __/ _` | __/ __|\n | (_| (_| | |_\\__ \\\n  \\___\\__,_|\\__|___/");
 	
+}else if(userInput1.equalsIgnoreCase("fish")) {
+	System.out.println("   __ _     _     \n  / _(_)___| |__  \n | |_| / __| \'_ \\ \n |  _| \\__ \\ | | |\n |_| |_|___/_| |_|");
 }
 else {
 	
