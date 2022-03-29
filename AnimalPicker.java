@@ -20,9 +20,10 @@ if(userInput1.equalsIgnoreCase("dog") ) {
 	
 	System.out.println("            _       \n   ___ __ _| |_ ___ \n  / __/ _` | __/ __|\n | (_| (_| | |_\\__ \\\n  \\___\\__,_|\\__|___/");
 	
-}else if(userInput1.equalsIgnoreCase("fish")) {
+}/*
+ else if(userInput1.equalsIgnoreCase("fish")) {
 	System.out.println("   __ _     _     \n  / _(_)___| |__  \n | |_| / __| \'_ \\ \n |  _| \\__ \\ | | |\n |_| |_|___/_| |_|");
-}
+}*/
 else {
 	
 	System.out.println("Sorry please enter one of the  options");
