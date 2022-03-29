@@ -25,7 +25,7 @@ if(userInput1.equalsIgnoreCase("dog") ) {
 	System.out.println("   __ _     _     \n  / _(_)___| |__  \n | |_| / __| \'_ \\ \n |  _| \\__ \\ | | |\n |_| |_|___/_| |_|");
 }*/
 else {
-	
+
 	System.out.println("Sorry please enter one of the  options");
 	
 	//System.out.println("which animal do you want to see: a dog or a cat");
